@@ -37,9 +37,13 @@ Trong phần này, chúng ta sẽ tạo một User Pool để lưu trữ và qu�
 1. **User pool name**: Nhập tên gợi nhớ, ví dụ: `genzite-user-pool`.
 2. **Hosted authentication pages**: Không chọn (Chúng ta sẽ dùng giao diện đăng nhập tự code bằng React thay vì dùng Hosted UI của AWS).
 3. **Initial app client**: Chọn **Public client**.
-4. **App client name**: Nhập `genzite-react-client`.
+4. **App client name**: Nhập `genzite-web-app`.
 5. **Client secret**: Chọn **Don't generate a client secret** (RẤT QUAN TRỌNG: Môi trường Frontend như React/SPA không bảo mật được client secret, nếu tạo secret thì frontend sẽ không gọi API được).
 6. Nhấn **Next**.
+
+![Create Cognito 1](image/5.3.1.1.png)
+
+![Create Cognito 2](image/5.3.1.2.png)
 
 ## Bước 7: Xem lại và tạo
 1. Kiểm tra lại toàn bộ thông tin đã cấu hình.

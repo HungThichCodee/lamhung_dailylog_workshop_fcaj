@@ -1,121 +1,114 @@
 ---
 title: "Event 1"
-date: 2026-05-23
+date: 2026-05-09
 weight: 1
 chapter: false
 pre: " <b> 4.1. </b> "
 ---
 
 
-# Summary Report: “FCAJ Community Day - May 23”
 
-### Event Objectives
+## Purpose of the Event
 
-- Share the latest trends in AI, Cloud, and career opportunities in the AI era.
-- Demonstrate how to effectively use AI for learning and software development.
-- Introduce AWS services and AI applications in enterprise environments.
-- Present new features of Amazon Q and Amazon CloudFront.
+FCAJ Community Day 2026 was organized to bring together students, young software engineers, and technology enthusiasts who are passionate about Cloud Computing and Artificial Intelligence. The event aimed to provide practical knowledge, improve participants' understanding of AI-assisted software development, and help them build the right mindset for long-term career growth.
 
-### Speakers
+Besides technical sessions, the program focused on personal development, productivity improvement, and modern software engineering practices. Participants were encouraged to continuously learn, embrace new technologies, and prepare themselves for the rapidly evolving AI era.
 
-- **Nguyen Gia Hung** – AWS Solution Architect, Founder of AWS Study Group
-- **Tinh Truong** – Platform Engineer, GoTymeX
-- **Pham Nguyen Hai Anh** – Pacific Vietnam
-- **Nguyen Tuan Thinh** – DevOps Engineer
-- **Lam Hoang Cat Vy** – Senior Business Systems Analyst
-- **Dao Minh Duc** – Solutions Architect 
-### Key Highlights
+## Speakers
 
-#### AI and Career Trends
+The event featured experienced professionals from different technology fields:
 
-- AI helps reduce software development costs, enabling businesses to build more applications.
-- Employers increasingly value practical experience and real projects over theoretical knowledge alone.
-- Students should strengthen their technical knowledge, soft skills, English proficiency, and personal portfolio to stay competitive.
+- **Mr. Long** – Behavioral Psychology Expert, sharing techniques for improving productivity and learning efficiency.
+- **Mr. Thinh** – Cloud & AI Specialist, presenting Ultimate Prompt Engineering.
+- **Mr. Khang** – Solution Architect at Cloud Kinetics, sharing career development and hiring perspectives.
+- **Ms. Thao** – Software Developer at VIB, introducing the BMX Method for AI-assisted software development.
 
-#### Context in AI
+## Key Highlights
 
-- The quality of AI-generated responses depends heavily on the provided **context**.
-- Users should clearly define goals, roles, project context, and expected output format when interacting with AI.
-- It is recommended not to mix multiple unrelated topics within the same AI conversation.
+### Learning Productivity and Dopamine
 
-#### AI First Mindset
+- Understanding how dopamine influences learning motivation and daily habits.
+- Breaking large goals into smaller milestones to build sustainable learning habits.
+- Creating positive feedback loops to stay motivated during long-term learning.
 
-- Introduced concepts such as **AI First**, **AI Adoption**, and **Second Brain**.
-- AI should be viewed as a productivity tool that supports developers rather than replacing them.
-- Encouraged building workflows that effectively combine human expertise with AI capabilities.
+### Ultimate Prompt Engineering
 
-#### Amazon Q and AI Agents
+- Learning the framework of **Role – Instruction – Context – Input/Output Format – Constraints** for writing effective prompts.
+- Understanding that AI performs best when provided with clear objectives and sufficient context.
+- Viewing AI as a productivity amplifier rather than a replacement for human expertise.
 
-- Amazon Q can assist with data analysis, dashboard creation, meeting summarization, and programming support.
-- AI Agents can integrate with Gmail, Microsoft Teams, Calendar, and other services to automate repetitive tasks.
-- Demonstrated how AI Agents can be applied in enterprise scenarios.
+### Foundation-First Mindset
 
-#### Amazon CloudFront
+- Employers value problem-solving ability and fundamental knowledge more than familiarity with specific tools.
+- Always ask **"Why?"** before selecting a technology or cloud service.
+- Understanding architectural decisions is more valuable than simply knowing deployment procedures.
 
-- Introduced the new **Flat Rate Pricing** model for Amazon CloudFront.
-- Helps organizations predict CDN costs more accurately and optimize budgets.
-- Improves application performance while enhancing security and cost management.
+### BMX Method for AI Development
 
-### Key Takeaways
+- Introducing a documentation-first approach before AI-assisted coding.
+- Using structured documentation to reduce AI hallucinations in large software projects.
+- Improving collaboration between developers and AI tools through better project organization.
 
-#### Development Mindset
+## What I Learned
 
-- AI will become an essential assistant throughout the software development lifecycle.
-- Building a strong portfolio and real-world projects is more valuable than relying solely on theoretical knowledge.
-- Continuously learning emerging technologies is essential for maintaining competitiveness.
+### Self-Management Skills
 
-#### Technical Knowledge
+- Applying the **Two-Minute Rule** to overcome procrastination.
+- Building consistent daily learning habits through small but continuous progress.
+- Staying disciplined is essential for long-term improvement.
 
-- Understood the importance of **context engineering** when working with AI tools.
-- Learned how Amazon Q and AI Agents can automate various development and business tasks.
-- Gained a better understanding of Amazon CloudFront's new Flat Rate Pricing model and its benefits.
+### Working with AI
 
-#### Career Development
+- AI is an excellent assistant for brainstorming ideas and improving productivity.
+- Developers remain responsible for verifying, testing, and validating AI-generated results.
+- Critical thinking cannot be outsourced to AI.
 
-- Employers highly value candidates who can effectively leverage AI in their daily work.
-- Combining technical expertise with business knowledge creates greater professional value.
-- Sharing knowledge and building a personal brand can provide significant career advantages.
+### Professional Integrity
 
-### Applying to Work
+- Focus on delivering high-quality software instead of only meeting minimum requirements.
+- Consider edge cases and unexpected scenarios when designing software systems.
+- Professional responsibility is one of the most valuable qualities of an engineer.
 
-- Use AI to support programming, documentation, and learning activities.
-- Provide sufficient context when using ChatGPT or Amazon Q to obtain more accurate responses.
-- Explore AI Agents to automate repetitive tasks in software projects.
-- Learn more about Amazon CloudFront to optimize application performance and deployment costs on AWS.
+### Career Development
 
-### Event Experience
+- A successful career is built not only on salary but also on experience, knowledge, networking, and continuous growth.
+- Participating in technology communities helps expand both technical knowledge and professional relationships.
+- Lifelong learning is the key to staying competitive in the technology industry.
 
-Participating in **FCAJ Community Day - May 23** gave me a deeper understanding of AI trends in the IT industry and how organizations are adopting AI throughout the software development process. The event covered not only AWS technologies but also practical insights into career development and the skills required in the AI era.
+## Applying the Knowledge
 
-#### Learning from the Speakers
+After attending FCAJ Community Day 2026, I identified several practical ways to apply what I learned:
 
-- The speakers shared valuable real-world experiences in software development, DevOps, AI, and Cloud technologies.
-- Their presentations provided a clearer understanding of AI's role in modern software engineering and current hiring trends.
+- Break down complex AWS services into smaller learning objectives to improve learning efficiency.
+- Apply Prompt Engineering techniques such as structured prompts and Chain of Thought reasoning when working with AI.
+- Always ask **"Why?"** before making architectural or technical decisions.
+- Participate in team projects to improve collaboration, communication, and project management skills.
+- Continue studying Cloud Computing, Artificial Intelligence, and Software Architecture while building practical side projects.
 
-#### Technical Experience
+## Event Experience
 
-- Learned how proper context can significantly improve AI-generated results.
-- Observed practical demonstrations of Amazon Q, AI Agents, and workflow automation.
-- Gained insights into Amazon CloudFront's Flat Rate Pricing model and its advantages for cost management.
+Participating in **FCAJ Community Day 2026** was an inspiring and valuable experience. The event created an energetic learning environment where students, developers, and industry experts openly shared their knowledge and experiences.
 
-#### Practical Applications
+### Positive Learning Environment
 
-- Learned how AI can be applied to programming, data analysis, and task management.
-- Gained useful ideas for building a stronger portfolio and preparing for future career opportunities.
+- Participants actively asked questions and exchanged ideas with the speakers.
+- The atmosphere encouraged curiosity, discussion, and continuous learning.
+- Networking opportunities allowed attendees to connect with experienced professionals.
 
-#### Networking and Discussions
+### Practical Knowledge
 
-- Had the opportunity to interact with speakers and AWS community members.
-- Learned from others' experiences in studying AWS, personal development, and career planning.
+- Real-world examples made complex AI and cloud concepts easier to understand.
+- Practical demonstrations illustrated how AI can improve software development workflows.
+- The sessions emphasized solving business problems rather than simply using new technologies.
 
-#### Lessons Learned
+### Career Inspiration
 
-- AI will become an essential skill for future software engineers.
-- A strong portfolio and hands-on projects are increasingly important in the recruitment process.
-- Continuously learning new technologies and using AI effectively can significantly improve both learning and productivity.
+- The speakers shared valuable insights from their professional journeys and industry experiences.
+- Their advice motivated participants to strengthen their technical foundations and continuously improve themselves.
+- The event highlighted the importance of adaptability, curiosity, and lifelong learning in the AI era.
 
-#### Some Event Photos
+## Event Photos
 
-![23-5.png](/images/4-EventParticipated/23-5.png)
+![FCAJ Community Day 2026 Photo](/images/4-EventParticipated/4.1-Event1/event-aws-1.jpg)
 
-> Overall, the event provided valuable insights into AI and Cloud technologies while offering practical knowledge that I can apply to my studies, software projects, and future career development.
+> Overall, FCAJ Community Day 2026 provided valuable insights into Artificial Intelligence, Cloud Computing, Prompt Engineering, and modern software development practices. Beyond the technical knowledge, the event inspired me to strengthen my learning mindset, improve my professional skills, and continue building practical experience to prepare for a successful career in the rapidly evolving technology industry.

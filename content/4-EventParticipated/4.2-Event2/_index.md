@@ -1,146 +1,121 @@
 ---
 title: "Event 2"
-date: 2026-06-27
+date: 2026-05-23
 weight: 2
 chapter: false
 pre: " <b> 4.2. </b> "
 ---
 
-# Summary Report: “DATA DRIVEN, AI RISEN”
+
+# Summary Report: “FCAJ Community Day - May 23”
 
 ### Event Objectives
 
-- Share trends in AI application in enterprises and cloud computing.
-- Introduce AI Agent, Voice AI, and Amazon Q solutions on the AWS platform.
-- Share career development experiences in the Cloud and AI fields.
-- Demonstrate real-world AI applications in DevOps, recruitment, and enterprise management.
+- Share the latest trends in AI, Cloud, and career opportunities in the AI era.
+- Demonstrate how to effectively use AI for learning and software development.
+- Introduce AWS services and AI applications in enterprise environments.
+- Present new features of Amazon Q and Amazon CloudFront.
 
 ### Speakers
 
-- **Steve Tran** – Founder Cloud Thinker
-- **Nghi Danh Hoang Hieu** - AI Engineer
-- **Kiet Tran** - AI Engineer
-- **Vu Trung** - Founder Revve AI
-- **Nguyen Minh Nguyen** - Cloud Engineer
-- **Phan Kim Bao** - Cloud Engineer
-- **Truong Tran** - AI Solution Sales
-- **Dang Cao Minh Anh** - Solution Sales
-- **Duc Toan Nguyen** - Cloud Engineer                                             
-
+- **Nguyen Gia Hung** – AWS Solution Architect, Founder of AWS Study Group
+- **Tinh Truong** – Platform Engineer, GoTymeX
+- **Pham Nguyen Hai Anh** – Pacific Vietnam
+- **Nguyen Tuan Thinh** – DevOps Engineer
+- **Lam Hoang Cat Vy** – Senior Business Systems Analyst
+- **Dao Minh Duc** – Solutions Architect 
 ### Key Highlights
 
-#### Career Journey, Cloud, and AI in the Enterprise
+#### AI and Career Trends
 
-- Steve Tran shared his journey from System Engineer to Solution Architect at AWS and Founder of Cloud Thinker.
-- Emphasized the importance of learning Cloud, AI, and participating in real-world projects early on.
-- AI is changing the labor market; enterprises prioritize engineers who can apply AI effectively.
-- AI assists Cloud and DevOps Engineers in incident analysis, cost optimization, security, and system operation.
-- When building a startup, focus on solving real customer problems instead of just developing ideas.
+- AI helps reduce software development costs, enabling businesses to build more applications.
+- Employers increasingly value practical experience and real projects over theoretical knowledge alone.
+- Students should strengthen their technical knowledge, soft skills, English proficiency, and personal portfolio to stay competitive.
 
-#### Voice AI and Voice Agent on AWS
+#### Context in AI
 
-- Introduced Voice AI architecture including **Speech-to-Text**, **Large Language Model (LLM)**, and **Text-to-Speech**.
-- For Vietnamese, the Speech-to-Text → LLM → Text-to-Speech model is more effective than Speech-to-Speech.
-- Demonstrated Voice Agent using AWS Bedrock combined with Knowledge Base to answer questions in real-time.
-- Shared challenges when deploying Voice AI such as speaker recognition, handling interruptions, Prompt management, Audit Logging, and Knowledge Base integration.
+- The quality of AI-generated responses depends heavily on the provided **context**.
+- Users should clearly define goals, roles, project context, and expected output format when interacting with AI.
+- It is recommended not to mix multiple unrelated topics within the same AI conversation.
 
-#### AWS DevOps Agent
+#### AI First Mindset
 
-- Introduced AI Agent assisting DevOps Engineers during system operations.
-- AI can collect logs, perform Root Cause Analysis, propose solutions, and improve the system.
-- Through a demo on AWS ECS, DevOps Agent automatically detected the cause of a slow website due to a DDoS attack and suggested a response plan.
-- AI helps shorten incident response times, but engineers still make the final decision.
+- Introduced concepts such as **AI First**, **AI Adoption**, and **Second Brain**.
+- AI should be viewed as a productivity tool that supports developers rather than replacing them.
+- Encouraged building workflows that effectively combine human expertise with AI capabilities.
 
-#### Amazon Q in Human Resource Management
+#### Amazon Q and AI Agents
 
-- Amazon Q assists in analyzing CVs, standardizing evaluation criteria, and synthesizing recruitment data.
-- AI helps build recruitment strategies and ensures enterprise data security.
-- Applying AI reduces recruitment time, saves costs, and improves candidate selection quality.
+- Amazon Q can assist with data analysis, dashboard creation, meeting summarization, and programming support.
+- AI Agents can integrate with Gmail, Microsoft Teams, Calendar, and other services to automate repetitive tasks.
+- Demonstrated how AI Agents can be applied in enterprise scenarios.
 
-#### Amazon Q – AI Agent for the Enterprise
+#### Amazon CloudFront
 
-- Introduced Amazon Q as an AI Agent supporting multiple departments like HR, Sales, Research, and business operations.
-- Supports researching information from the Internet combined with internal data to create complete reports.
-- Automates repetitive tasks such as processing emails, creating documents, and administrative workflows.
-- Connects to multiple data sources like Gmail, Google Drive, Outlook, Jira, GitHub, Amazon S3, and enterprise databases via MCP.
-
-#### Amazon Q Demo in Recruitment
-
-- Demonstrated an AI-assisted recruitment process from CV collection to candidate evaluation.
-- AI can analyze skills, compare with the Job Description, score, classify, and recommend suitable candidates.
-- Supports creating visual Dashboards, scheduling interviews, and sending automated emails.
-- AI also uses OCR to read CVs in various formats and build Skills for recruitment processes.
-
-#### Connecting Amazon Q with MCP Server and Enterprise Security
-
-- Introduced Model Context Protocol (MCP) helping Amazon Q connect with external systems like Gmail, GitHub, Jira, and AWS Services.
-- Deployed in an AWS Private environment through Amazon VPC, Private Subnet, Application Load Balancer, Route 53 Resolver, AWS Certificate Manager, and Amazon Cognito.
-- Helps enhance data security, reduce attack risks, and meet enterprise requirements.
-- Simultaneously analyzed deployment costs for enterprises to balance security levels and operational costs.
+- Introduced the new **Flat Rate Pricing** model for Amazon CloudFront.
+- Helps organizations predict CDN costs more accurately and optimize budgets.
+- Improves application performance while enhancing security and cost management.
 
 ### Key Takeaways
 
-#### Career Orientation
+#### Development Mindset
 
-- Cloud and AI are opening up many new career opportunities but also require engineers to continuously learn.
-- Participating in real-world projects and knowing how to leverage AI will create a competitive advantage when job hunting.
-- AI is a support tool, not a complete replacement for software engineers.
+- AI will become an essential assistant throughout the software development lifecycle.
+- Building a strong portfolio and real-world projects is more valuable than relying solely on theoretical knowledge.
+- Continuously learning emerging technologies is essential for maintaining competitiveness.
 
 #### Technical Knowledge
 
-- Understood the architecture of building Voice AI on AWS and how to deploy Voice Agent.
-- Learned how AI Agent supports DevOps in monitoring, log analysis, and incident response.
-- Understood the role of Amazon Q in the enterprise and its ability to automate various workflows.
-- Grasped how to connect Amazon Q with internal systems via the Model Context Protocol (MCP).
+- Understood the importance of **context engineering** when working with AI tools.
+- Learned how Amazon Q and AI Agents can automate various development and business tasks.
+- Gained a better understanding of Amazon CloudFront's new Flat Rate Pricing model and its benefits.
 
-#### AI Applications in the Enterprise
+#### Career Development
 
-- AI can support many areas such as Cloud Operations, DevOps, recruitment, and Business Intelligence.
-- AI deployment needs to be accompanied by appropriate security and access control solutions.
-- Enterprises must balance efficiency, security, and cost when deploying AI solutions.
+- Employers highly value candidates who can effectively leverage AI in their daily work.
+- Combining technical expertise with business knowledge creates greater professional value.
+- Sharing knowledge and building a personal brand can provide significant career advantages.
 
 ### Applying to Work
 
-- Learn and apply AI Agents in ongoing AWS projects.
-- Research Amazon Q to support learning, document analysis, and task automation.
-- Apply knowledge about DevOps Agent to assist in monitoring and handling system incidents.
-- Explore Voice AI and AWS AI services to expand capabilities in developing smart applications.
-- Continue improving knowledge of Cloud, AI, and security to meet enterprise needs.
+- Use AI to support programming, documentation, and learning activities.
+- Provide sufficient context when using ChatGPT or Amazon Q to obtain more accurate responses.
+- Explore AI Agents to automate repetitive tasks in software projects.
+- Learn more about Amazon CloudFront to optimize application performance and deployment costs on AWS.
 
 ### Event Experience
 
-Attending **DATA DRIVEN, AI RISEN** gave me the opportunity to access many new AI technologies being applied in enterprises on the AWS platform. Through the presentations and real-world demos, I gained a clearer understanding of how AI Agents support Cloud Engineers, DevOps Engineers, and other departments within an organization.
+Participating in **FCAJ Community Day - May 23** gave me a deeper understanding of AI trends in the IT industry and how organizations are adopting AI throughout the software development process. The event covered not only AWS technologies but also practical insights into career development and the skills required in the AI era.
 
 #### Learning from the Speakers
 
-- The speakers shared a lot of practical experience in Cloud, AI, and career development journeys.
-- Gained a better understanding of current trends in AI application across enterprises.
+- The speakers shared valuable real-world experiences in software development, DevOps, AI, and Cloud technologies.
+- Their presentations provided a clearer understanding of AI's role in modern software engineering and current hiring trends.
 
 #### Technical Experience
 
-- Observed demos of Voice AI, DevOps Agent, and Amazon Q.
-- Learned the process of deploying AI Agents on AWS and how to connect them with multiple enterprise systems.
-- Gained deeper insights into security solutions when deploying AI in real-world environments.
+- Learned how proper context can significantly improve AI-generated results.
+- Observed practical demonstrations of Amazon Q, AI Agents, and workflow automation.
+- Gained insights into Amazon CloudFront's Flat Rate Pricing model and its advantages for cost management.
 
-#### Application of Modern Technology
+#### Practical Applications
 
-- Discovered many AI solutions that can be applied to Cloud Operations, DevOps, and recruitment.
-- Recognized that AI can help increase productivity, but human supervision and decision-making are still essential.
+- Learned how AI can be applied to programming, data analysis, and task management.
+- Gained useful ideas for building a stronger portfolio and preparing for future career opportunities.
 
 #### Networking and Discussions
 
-- Had the opportunity to network with AWS experts and enterprises deploying AI.
-- Learned more from others' experiences regarding career orientation and skill development in Cloud and AI.
+- Had the opportunity to interact with speakers and AWS community members.
+- Learned from others' experiences in studying AWS, personal development, and career planning.
 
 #### Lessons Learned
 
-- AI is increasingly becoming a crucial support tool in many areas such as Cloud Computing, DevOps, Voice AI, recruitment, and business operations.
-- AI helps automate processes, improve productivity, and support data-driven decision-making.
-- However, AI cannot yet entirely replace humans and acts as an intelligent assistant, especially in tasks requiring experience, critical thinking, and responsibility.
-- The session provided me with better direction for studying AWS, AI Agents, and modern Cloud solutions to prepare for future roles.
+- AI will become an essential skill for future software engineers.
+- A strong portfolio and hands-on projects are increasingly important in the recruitment process.
+- Continuously learning new technologies and using AI effectively can significantly improve both learning and productivity.
 
 #### Some Event Photos
 
-![27-6.png](/images/4-EventParticipated/27-6.png)
+![23-5.png](/images/4-EventParticipated/23-5.png)
 
-> Overall, "DATA DRIVEN, AI RISEN" provided a wealth of practical knowledge about AI and Cloud on the AWS platform. The insights shared by the speakers gave me a clearer understanding of the development trends of AI Agents in the enterprise, as well as guidance for learning and career development in the fields of Cloud Computing and Artificial Intelligence.
+> Overall, the event provided valuable insights into AI and Cloud technologies while offering practical knowledge that I can apply to my studies, software projects, and future career development.
