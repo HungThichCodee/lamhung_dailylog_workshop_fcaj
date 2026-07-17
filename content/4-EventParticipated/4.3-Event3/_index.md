@@ -141,6 +141,6 @@ Attending **DATA DRIVEN, AI RISEN** gave me the opportunity to access many new A
 
 #### Some Event Photos
 
-![27-6.png](/images/4-EventParticipated/27-6.png)
+![27-6.png](/images/4-event/27-6.png)
 
 > Overall, "DATA DRIVEN, AI RISEN" provided a wealth of practical knowledge about AI and Cloud on the AWS platform. The insights shared by the speakers gave me a clearer understanding of the development trends of AI Agents in the enterprise, as well as guidance for learning and career development in the fields of Cloud Computing and Artificial Intelligence.

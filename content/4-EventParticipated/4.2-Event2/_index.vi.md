@@ -117,6 +117,6 @@ Tham gia **FCAJ Community Day - May 23** giúp tôi hiểu rõ hơn về xu hư�
 
 #### Một số hình ảnh khi tham gia sự kiện
 
-![23-5.png](/images/4-EventParticipated/23-5.png)
+![23-5.png](/images/4-event/23-5.png)
 
 > Tổng thể, sự kiện giúp tôi hiểu rõ hơn về xu hướng AI và Cloud, đồng thời mang lại nhiều kinh nghiệm thực tế để áp dụng vào quá trình học tập, phát triển dự án và định hướng nghề nghiệp trong tương lai.
