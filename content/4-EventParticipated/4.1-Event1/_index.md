@@ -109,6 +109,6 @@ Participating in **FCAJ Community Day 2026** was an inspiring and valuable exper
 
 ## Event Photos
 
-![FCAJ Community Day 2026 Photo](/images/4-EventParticipated/4.1-Event1/event-aws-1.jpg)
+![FCAJ Community Day 2026 Photo](/images/4-event/event-aws-1.jpg)
 
 > Overall, FCAJ Community Day 2026 provided valuable insights into Artificial Intelligence, Cloud Computing, Prompt Engineering, and modern software development practices. Beyond the technical knowledge, the event inspired me to strengthen my learning mindset, improve my professional skills, and continue building practical experience to prepare for a successful career in the rapidly evolving technology industry.
